@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial 2-Temp Cal</string>
+    <string name="RadioButton1">Celcius</string>
+    <string name="RadioButton2">Fahrenhite</string>
+    <string name="ButtonCal">Calculate</string>
+    <string name="EditText" />
+    <string name="et_temp">Enter the Temparature</string>
+</resources>
